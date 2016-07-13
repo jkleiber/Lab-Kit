@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\physics.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\src\\main\\res\\layout\\physics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\elementdisplay.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\src\\main\\res\\layout\\elementdisplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\periodic.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\src\\main\\res\\layout\\periodic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Justin\\Dropbox\\Programming\\Android\\STUDIO\\LabKit\\app\\src\\main\\res\\layout\\splash.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Justin\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\LabKit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_396c940ebc017ca1ff1a58b174e0c5abfa998f19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\LabKit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="be0e9c2689776141bc010606c63a2c7ac1d65426">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\LabKit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8005fd49f2b8aa87f9d65ff28187b180349e670\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\LabKit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="321d63d304470ea9c9069b3bb08d9fb4d67174ee">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\LabKit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4286d1983e8095d41d3135ffe07e6e84619de7e4\classes.dex" />
+    </item>
+
+</items>

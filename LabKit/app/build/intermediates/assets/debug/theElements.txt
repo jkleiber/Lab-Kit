@@ -1,0 +1,1133 @@
+Hydrogen
+H
+1.008
+1
+1
+1312.0 kJ/mol
+2.20
+53 pm
+Nonmetal
+1s<sup>1</sup>
+Gas
+Helium
+He
+4.002
+0
+18
+2372.3 kJ/mol
+N/A
+31 pm
+Noble Gas
+1s<sup>2</sup>
+Gas
+Lithium
+Li
+6.94
+1
+1
+520.2 kJ/mol
+0.98
+167 pm
+Alkali Metal
+1s<sup>2</sup>2s<sup>1</sup>
+Solid
+Beryllium
+Be
+9.012
+2
+2
+899.5 kJ/mol
+1.57
+112 pm
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>
+Solid
+Boron
+B
+10.81
+3
+13
+800.6 kJ/mol
+2.04
+87 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>1</sup>
+Solid
+Carbon
+C
+12.011
+4
+14
+1086.5 kJ/mol
+2.55
+67 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>2</sup>
+Solid
+Nitrogen
+N
+14.007
+5
+15
+1402.3 kJ/mol
+3.04
+56 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>3</sup>
+Gas
+Oxygen
+O
+15.999
+6
+16
+1313.9 kJ/mol
+3.44
+48 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>4</sup>
+Gas
+Flourine
+F
+18.998
+7
+17
+1681.0 kJ/mol
+3.98
+42 pm
+Halogen
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>5</sup>
+Gas
+Neon
+Ne
+20.180
+8
+18
+2080.7 kJ/mol
+N/A
+38 pm
+Noble Gas
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>
+Gas
+Sodium
+Na
+22.990
+1
+1
+495.8 kJ/mol
+0.93
+190 pm
+Alkali Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>1</sup>
+Solid
+Magnesium
+Mg
+24.305
+2
+2
+737.7 kJ/mol
+1.31
+145 pm
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>
+Solid
+Aluminum
+Al
+26.982
+3
+13
+577.5 kJ/mol
+1.61
+118 pm
+Post Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>1</sup>
+Solid
+Silicon
+Si
+28.085
+4
+14
+786.5 kJ/mol
+1.90
+111 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>2</sup>
+Solid
+Phosphorous
+P
+30.974
+5
+15
+1011.8 kJ/mol
+2.19
+98 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>3</sup>
+Solid
+Sulfur
+S
+32.060
+6
+16
+999.6 kJ/mol
+2.58
+88 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>4</sup>
+Solid
+Chlorine
+Cl
+35.450
+7
+17
+1251.2 kJ/mol
+3.16
+79 pm
+Halogen
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>5</sup>
+Gas
+Argon
+Ar
+39.948
+8
+18
+1520.6 kJ/mol
+N/A
+71 pm
+Noble Gas
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>
+Gas
+Potassium
+K
+39.098
+1
+1
+418.8 kJ/mol
+0.82
+243 pm
+Alkali Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>1</sup>
+Solid
+Calcium
+Ca
+40.078
+2
+2
+589.8 kJ/mol
+1.0
+194 pm
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>
+Solid
+Scandium
+Sc
+44.956
+Transition
+3
+633.1 kJ/mol
+1.36
+162 pm
+Transitional metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>1</sup>
+Solid
+Titanium
+Ti
+47.867
+Transition
+4
+658.8 kJ/mol
+1.54
+176 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>2</sup>
+Solid
+Vanadium
+V
+50.942
+Transition
+5
+650.9 kJ/mol
+1.63
+171 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>3</sup>
+Solid
+Chromium
+Cr
+51.996
+Transition
+6
+652.9 kJ/mol
+1.66
+166 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>1</sup>3d<sup>5</sup>
+Solid
+Manganese
+Mn
+54.938
+Transition
+7
+717.3 kJ/mol
+1.55
+161 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>5</sup>
+Solid
+Iron
+Fe
+55.845
+Transition
+8
+762.5 kJ/mol
+1.83
+156 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>6</sup>
+Solid
+Cobalt
+Co
+58.933
+Transition
+9
+760.4 kJ/mol
+1.88
+152 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>7</sup>
+Solid
+Nickel
+Ni
+58.693
+Transition
+10
+737.1 kJ/mol
+1.91
+149 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>8</sup>
+Solid
+Copper
+Cu
+63.546
+Transition
+11
+745.5 kJ/mol
+1.90
+145 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>1</sup>3d<sup>10</sup>
+Solid
+Zinc
+Zn
+65.380
+Transition
+12
+906.4 kJ/mol
+1.65
+142 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>
+Solid
+Gallium
+Ga
+69.723
+3
+13
+578.8 kJ/mol
+1.81
+136 pm
+Post Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>1</sup>
+Solid
+Germanium
+Ge
+72.630
+4
+14
+762.0 kJ/mol
+2.01
+125 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>2</sup>
+Solid
+Arsenic
+As
+74.922
+5
+15
+947.0 kJ/mol
+2.18
+114 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>3</sup>
+Solid
+Selenium
+Se
+78.96
+6
+16
+941.0 kJ/mol
+2.55
+103 pm
+Nonmetal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>4</sup>
+Solid
+Bromine
+Br
+79.904
+7
+17
+1139.9 kJ/mol
+2.96
+94 pm
+Halogen
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>5</sup>
+Liquid
+Krypton
+Kr
+83.798
+8
+18
+1350.8 kJ/mol
+3.00
+88 pm
+Noble Gas
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>
+Gas
+Rubidium
+Rb
+85.468
+1
+1
+403.0 kJ/mol
+0.82
+265 pm
+Alkali Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>1</sup>
+Solid
+Strontium
+Sr
+87.620
+2
+2
+549.5 kJ/mol
+0.95
+219 pm
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>
+Solid
+Yttrium
+Y
+88.906
+Transition
+3
+600.0 kJ/mol
+1.22
+212 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>1</sup>
+Solid
+Zirconium
+Zr
+91.224
+Transition
+4
+640.1 kJ/mol
+1.33
+206 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>2</sup>
+Solid
+Neobium
+Nb
+92.906
+Transition
+5
+652.1 kJ/mol
+1.60
+198 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>3</sup>
+Solid
+Molybdenum
+Mo
+95.960
+Transition
+6
+684.3 kJ/mol
+2.16
+190 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>1</sup>4d<sup>5</sup>
+Solid
+Technetium
+Tc
+98*
+Transition
+7
+702.0 kJ/mol
+1.9
+183 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>5</sup>
+Solid
+Ruthenium
+Ru
+101.070
+Transition
+8
+710.2 kJ/mol
+2.2
+178 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>6</sup>
+Solid
+Rhodium
+Rh
+102.906
+Transition
+9
+719.7 kJ/mol
+2.28
+173 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>7</sup>
+Solid
+Palladium
+Pd
+106.420
+Transition
+10
+804.4 kJ/mol
+2.20
+169 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>8</sup>
+Solid
+Silver
+Ag
+107.868
+Transition
+11
+731.0 kJ/mol
+1.93
+165 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>1</sup>4d<sup>10</sup>
+Solid
+Cadmium
+Cd
+112.411
+Transition
+12
+867.8 kJ/mol
+1.69
+161 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>
+Solid
+Indium
+In
+114.818
+3
+13
+558.3 kJ/mol
+1.78
+156 pm
+Post Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>1</sup>
+Solid
+Tin
+Sn
+118.710
+4
+14
+708.6 kJ/mol
+1.96
+145 pm
+Post Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>2</sup>
+Solid
+Antimony
+Sb
+121.760
+5
+15
+834.0 kJ/mol
+2.05
+133 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>3</sup>
+Solid
+Tellurium
+Te
+127.600
+6
+16
+869.3 kJ/mol
+2.1
+123 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>4</sup>
+Solid
+Iodine
+I
+126.904
+7
+17
+1008.4 kJ/mol
+2.66
+115 pm
+Halogen
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>5</sup>
+Solid
+Xenon
+Xe
+131.293
+8
+18
+1170.4 kJ/mol
+2.60
+108 pm
+Noble Gas
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>
+Gas
+Caesium
+Cs
+132.905
+1
+1
+375.7 kJ/mol
+0.79
+298 pm
+Alkali Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>1</sup>
+Solid
+Barium
+Ba
+137.327
+2
+2
+502.9 kJ/mol
+0.89
+253 pm
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>
+Solid
+Lanthanum
+La
+138.905
+Rare Earth
+3
+538.1 kJ/mol
+1.10
+N/A
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>5d<sup>1</sup>
+Solid
+Cerium
+Ce
+140.116
+Rare Earth
+3
+534.4 kJ/mol
+1.12
+N/A
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>1</sup>5d<sup>1</sup>
+Solid
+Praseodymium
+Pr
+140.908
+Rare Earth
+3
+527.0 kJ/mol
+1.13
+247 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>3</sup>
+Solid
+Neodymium
+Nd
+144.242
+Rare Earth
+3
+533.1 kJ/mol
+1.14
+206 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>4</sup>
+Solid
+Promethium
+Pm
+145*
+Rare Earth
+3
+540.0 kJ/mol
+N/A
+205 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>5</sup>
+Solid
+Samarium
+Sm
+150.360
+Rare Earth
+3
+544.5 kJ/mol
+1.17
+238 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>6</sup>
+Solid
+Europium
+Eu
+151.964
+Rare Earth
+3
+547.1 kJ/mol
+N/A
+231 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>7</sup>
+Solid
+Gadolinium
+Gd
+157.250
+Rare Earth
+3
+593.4 kJ/mol
+1.20
+233 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>5d<sup>1</sup>4f<sup>7</sup>
+Solid
+Terbium
+Tb
+158.925
+Rare Earth
+3
+565.8 kJ/mol
+N/A
+225 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>9</sup>
+Solid
+Dysprosium
+Dy
+162.500
+Rare Earth
+3
+573.0 kJ/mol
+1.22
+228 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>10</sup>
+Solid
+Holmium
+Ho
+164.930
+Rare Earth
+3
+581.0 kJ/mol
+1.23
+226 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>11</sup>
+Solid
+Erbium
+Er
+167.259
+Rare Earth
+3
+589.3 kJ/mol
+1.24
+226 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>12</sup>
+Solid
+Thulium
+Tm
+168.934
+Rare Earth
+3
+596.7 kJ/mol
+1.25
+222 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>13</sup>
+Solid
+Ytterbium
+Yb
+173.054
+Rare Earth
+3
+603.4 kJ/mol
+Unknown
+222 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>
+Solid
+Lutetium
+Lu
+174.967
+Rare Earth
+3
+523.5 kJ/mol
+1.27
+217 pm
+Rare Earth Metal (Lanthanoids)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>1</sup>
+Solid
+Hafnium
+Hf
+178.49
+Transition
+4
+658.5 kJ/mol
+1.30
+208 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>2</sup>
+Solid
+Tantalum
+Ta
+180.948
+Transition
+5
+761.0 kJ/mol
+1.50
+200 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>3</sup>
+Solid
+Tungsten
+W
+183.840
+Transition
+6
+770.0 kJ/mol
+2.36
+193 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>4</sup>
+Solid
+Rhenium
+Re
+186.207
+Transition
+7
+760.0 kJ/mol
+1.90
+188 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>5</sup>
+Solid
+Osmium
+Os
+190.23
+Transition
+8
+840.0 kJ/mol
+2.20
+185 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>6</sup>
+Solid
+Iridium
+Ir
+192.217
+Transition
+9
+880.0 kJ/mol
+2.20
+180 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>7</sup>
+Solid
+Platinum
+Pt
+195.084
+Transition
+10
+870.0 kJ/mol
+2.28
+177 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>1</sup>4f<sup>14</sup>5d<sup>9</sup>
+Solid
+Gold
+Au
+196.967
+Transition
+11
+890.1 kJ/mol
+2.54
+174 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>1</sup>4f<sup>14</sup>5d<sup>10</sup>
+Solid
+Mercury
+Hg
+200.590
+Transition
+12
+1007.1 kJ/mol
+2.00
+171 pm
+Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>
+Liquid
+Thalium
+Tl
+204.380
+3
+13
+589.4 kJ/mol
+1.62
+156 pm
+Post-Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>1</sup>
+Solid
+Lead
+Pb
+207.200
+4
+14
+715.6 kJ/mol
+2.33
+154 pm
+Post-Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>2</sup>
+Solid
+Bismuth
+Bi
+208.980
+5
+15
+703.0 kJ/mol
+2.02
+143 pm
+Post-Transitional Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>3</sup>
+Solid
+Polonium
+Po
+209*
+6
+16
+812.1 kJ/mol
+2.00
+135 pm
+Metalloid
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>4</sup>
+Solid
+Astatine
+At
+210*
+7
+17
+890.0 kJ/mol
+2.20
+127 pm
+Halogen
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>5</sup>
+Solid
+Radon
+Rn
+222*
+8
+18
+1037.0 kJ/mol
+N/A
+120 pm
+Noble Gas
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>
+Gas
+Francium
+Fr
+223*
+1
+1
+380.0 kJ/mol
+0.70
+N/A
+Alkali Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>1</sup>
+Solid
+Radium
+Ra
+226*
+2
+2
+509.3 kJ/mol
+0.90
+N/A
+Alkali Earth Metal
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>
+Solid
+Actinium
+Ac
+227*
+Rare Earth
+3
+499.0 kJ/mol
+1.10
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>6d<sup>1</sup>
+Solid
+Thorium
+Th
+232.034
+Rare Earth
+3
+587.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>6d<sup>2</sup>
+Solid
+Proactinium
+Pa
+231.036
+Rare Earth
+3
+568.0 kJ/mol
+1.50
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>2</sup>6d<sup>1</sup>
+Solid
+Uranium
+U
+238.029
+Rare Earth
+3
+597.6 kJ/mol
+1.38
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>3</sup>6d<sup>1</sup>
+Solid
+Neptunium
+Np
+237*
+Rare Earth
+3
+604.5 kJ/mol
+1.36
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>4</sup>6d<sup>1</sup>
+Solid
+Plutonium
+Pu
+244*
+Rare Earth
+3
+584.7 kJ/mol
+1.28
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>6</sup>
+Solid
+Americium
+Am
+243*
+Rare Earth
+3
+578.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>7</sup>
+Solid
+Curium
+Cm
+247*
+Rare Earth
+3
+581.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>7</sup>6d<sup>1</sup>
+Solid
+Berkelium
+Bk
+247*
+Rare Earth
+3
+601.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>9</sup>
+Solid
+Californium
+Cf
+251*
+Rare Earth
+3
+608.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>10</sup>
+Solid
+Einsteinium
+Es
+252*
+Rare Earth
+3
+619.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>11</sup>
+Solid
+Fermium
+Fm
+257*
+Rare Earth
+3
+627.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>12</sup>
+Solid
+Mendelevium
+Md
+258*
+Rare Earth
+3
+635.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>13</sup>
+Solid
+Nobelium
+No
+259*
+Rare Earth
+3
+642.0 kJ/mol
+1.30
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>14</sup>
+Solid
+Lawrencium
+Lr
+262*
+Rare Earth
+3
+470.0 kJ/mol
+N/A
+N/A
+Rare Earth Metal (Actinides)
+1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>6</sup>7p<sup>1</sup>
+Solid

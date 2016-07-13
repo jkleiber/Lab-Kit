@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tSelect">
+        <item>Search by Atomic Number</item>
+        <item>Search by Symbol</item>
+        <item>Search by Element Name</item>
+    </string-array>
+    <color name="accent_material_light">#3ba023</color>
+    <color name="actinide">#303030</color>
+    <color name="alkaliearthmetal">#A4D353</color>
+    <color name="alkalimetal">#FFFF54</color>
+    <color name="background_material_light">#ffffff</color>
+    <color name="colorPrimaryDark">#3ba023</color>
+    <color name="halogen">#BF00FF</color>
+    <color name="lanthanoid">#5C5C5C</color>
+    <color name="metalloid">#53D38B</color>
+    <color name="noblegas">#FC94E3</color>
+    <color name="nonmetal">#FFC400</color>
+    <color name="postmetal">#FF5454</color>
+    <color name="primary_dark_material_light">#368f21</color>
+    <color name="tmetal">#B9B9B9</color>
+    <string name="app_name">Lab Kit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_new">Add New</string>
+    <string name="menu_settings">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
